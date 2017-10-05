@@ -1,0 +1,10 @@
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Temporada1\ObjetosTransferencia\bin\Debug\ObjetosTransferencia.dll
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Temporada1\ObjetosTransferencia\bin\Debug\ObjetosTransferencia.pdb
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Temporada1\ObjetosTransferencia\obj\Debug\ObjetosTransferencia.dll
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Temporada1\ObjetosTransferencia\obj\Debug\ObjetosTransferencia.pdb
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Temporada1\ObjetosTransferencia\obj\Debug\ObjetosTransferencia.csprojResolveAssemblyReference.cache
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\ETEC\Temporada1\ObjetosTransferencia\bin\Debug\ObjetosTransferencia.dll
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\ETEC\Temporada1\ObjetosTransferencia\bin\Debug\ObjetosTransferencia.pdb
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\ETEC\Temporada1\ObjetosTransferencia\obj\Debug\ObjetosTransferencia.csprojResolveAssemblyReference.cache
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\ETEC\Temporada1\ObjetosTransferencia\obj\Debug\ObjetosTransferencia.dll
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\ETEC\Temporada1\ObjetosTransferencia\obj\Debug\ObjetosTransferencia.pdb

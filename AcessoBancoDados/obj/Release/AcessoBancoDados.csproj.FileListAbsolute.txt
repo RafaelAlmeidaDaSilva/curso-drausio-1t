@@ -1,0 +1,6 @@
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\AcessoBancoDados\bin\Release\AcessoBancoDados.dll.config
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\AcessoBancoDados\bin\Release\AcessoBancoDados.dll
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\AcessoBancoDados\bin\Release\AcessoBancoDados.pdb
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\AcessoBancoDados\obj\Release\AcessoBancoDados.csprojResolveAssemblyReference.cache
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\AcessoBancoDados\obj\Release\AcessoBancoDados.dll
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\AcessoBancoDados\obj\Release\AcessoBancoDados.pdb

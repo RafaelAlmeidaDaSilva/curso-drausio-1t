@@ -1,0 +1,5 @@
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\ObjetosTransferencia\bin\Release\ObjetosTransferencia.dll
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\ObjetosTransferencia\bin\Release\ObjetosTransferencia.pdb
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\ObjetosTransferencia\obj\Release\ObjetosTransferencia.csprojResolveAssemblyReference.cache
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\ObjetosTransferencia\obj\Release\ObjetosTransferencia.dll
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\ObjetosTransferencia\obj\Release\ObjetosTransferencia.pdb

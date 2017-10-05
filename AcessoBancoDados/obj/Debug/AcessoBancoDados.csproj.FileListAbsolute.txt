@@ -1,0 +1,12 @@
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Temporada1\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Temporada1\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Temporada1\AcessoBancoDados\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Temporada1\AcessoBancoDados\obj\Debug\AcessoBancoDados.dll
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Temporada1\AcessoBancoDados\obj\Debug\AcessoBancoDados.pdb
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Temporada1\AcessoBancoDados\obj\Debug\AcessoBancoDados.csprojResolveAssemblyReference.cache
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\ETEC\Temporada1\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\ETEC\Temporada1\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\ETEC\Temporada1\AcessoBancoDados\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\ETEC\Temporada1\AcessoBancoDados\obj\Debug\AcessoBancoDados.csprojResolveAssemblyReference.cache
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\ETEC\Temporada1\AcessoBancoDados\obj\Debug\AcessoBancoDados.dll
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\ETEC\Temporada1\AcessoBancoDados\obj\Debug\AcessoBancoDados.pdb

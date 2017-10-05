@@ -1,0 +1,50 @@
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Temporada1\Apresentacao\bin\Debug\Apresentacao.exe.config
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Temporada1\Apresentacao\bin\Debug\Apresentacao.exe
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Temporada1\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Temporada1\Apresentacao\obj\Debug\Apresentacao.Properties.Resources.resources
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Temporada1\Apresentacao\obj\Debug\Apresentacao.csproj.GenerateResource.Cache
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Temporada1\Apresentacao\obj\Debug\Apresentacao.exe
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Temporada1\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Temporada1\Apresentacao\obj\Debug\Apresentacao.csprojResolveAssemblyReference.cache
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Temporada1\Apresentacao\obj\Debug\Apresentacao.FrmMenu.resources
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Temporada1\Apresentacao\obj\Debug\Apresentacao.FrmClienteSelecionar.resources
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Temporada1\Apresentacao\bin\Debug\Negocios.dll
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Temporada1\Apresentacao\bin\Debug\ObjetosTransferencia.dll
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Temporada1\Apresentacao\bin\Debug\AcessoBancoDados.dll
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Temporada1\Apresentacao\bin\Debug\Negocios.pdb
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Temporada1\Apresentacao\bin\Debug\ObjetosTransferencia.pdb
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\Temporada1\Apresentacao\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\ETEC\Temporada1\Apresentacao\bin\Debug\Apresentacao.exe.config
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\ETEC\Temporada1\Apresentacao\obj\Debug\Apresentacao.exe
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\ETEC\Temporada1\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\ETEC\Temporada1\Apresentacao\bin\Debug\Apresentacao.exe
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\ETEC\Temporada1\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\ETEC\Temporada1\Apresentacao\bin\Debug\Negocios.dll
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\ETEC\Temporada1\Apresentacao\bin\Debug\ObjetosTransferencia.dll
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\ETEC\Temporada1\Apresentacao\bin\Debug\AcessoBancoDados.dll
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\ETEC\Temporada1\Apresentacao\bin\Debug\Negocios.pdb
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\ETEC\Temporada1\Apresentacao\bin\Debug\ObjetosTransferencia.pdb
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\ETEC\Temporada1\Apresentacao\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\ETEC\Temporada1\Apresentacao\obj\Debug\Apresentacao.csprojResolveAssemblyReference.cache
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\ETEC\Temporada1\Apresentacao\obj\Debug\Apresentacao.FrmClienteSelecionar.resources
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\ETEC\Temporada1\Apresentacao\obj\Debug\Apresentacao.FrmMenu.resources
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\ETEC\Temporada1\Apresentacao\obj\Debug\Apresentacao.Properties.Resources.resources
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\ETEC\Temporada1\Apresentacao\obj\Debug\Apresentacao.csproj.GenerateResource.Cache
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\ETEC\Temporada1\Apresentacao\obj\Debug\Apresentacao.FrmClienteCadastrar.resources
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Apresentacao\bin\Debug\Apresentacao.exe.config
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Apresentacao\obj\Debug\Apresentacao.exe
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Apresentacao\obj\Debug\Apresentacao.pdb
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Apresentacao\bin\Debug\Apresentacao.exe
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Apresentacao\bin\Debug\Apresentacao.pdb
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Apresentacao\bin\Debug\Negocios.dll
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Apresentacao\bin\Debug\ObjetosTransferencia.dll
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Apresentacao\bin\Debug\AcessoBancoDados.dll
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Apresentacao\bin\Debug\Negocios.pdb
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Apresentacao\bin\Debug\ObjetosTransferencia.pdb
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Apresentacao\bin\Debug\AcessoBancoDados.pdb
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Apresentacao\obj\Debug\Apresentacao.csprojResolveAssemblyReference.cache
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Apresentacao\obj\Debug\Apresentacao.FrmClienteCadastrar.resources
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Apresentacao\obj\Debug\Apresentacao.FrmClienteSelecionar.resources
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Apresentacao\obj\Debug\Apresentacao.FrmMenu.resources
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Apresentacao\obj\Debug\Apresentacao.Properties.Resources.resources
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Apresentacao\obj\Debug\Apresentacao.csproj.GenerateResource.Cache

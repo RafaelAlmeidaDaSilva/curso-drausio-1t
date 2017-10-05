@@ -1,0 +1,17 @@
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Apresentacao\bin\Release\Apresentacao.exe.config
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Apresentacao\bin\Release\Apresentacao.exe
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Apresentacao\bin\Release\Apresentacao.pdb
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Apresentacao\bin\Release\Negocios.dll
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Apresentacao\bin\Release\ObjetosTransferencia.dll
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Apresentacao\bin\Release\AcessoBancoDados.dll
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Apresentacao\bin\Release\Negocios.pdb
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Apresentacao\bin\Release\ObjetosTransferencia.pdb
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Apresentacao\bin\Release\AcessoBancoDados.pdb
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Apresentacao\obj\Release\Apresentacao.csprojResolveAssemblyReference.cache
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Apresentacao\obj\Release\Apresentacao.FrmClienteCadastrar.resources
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Apresentacao\obj\Release\Apresentacao.FrmClienteSelecionar.resources
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Apresentacao\obj\Release\Apresentacao.FrmMenu.resources
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Apresentacao\obj\Release\Apresentacao.Properties.Resources.resources
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Apresentacao\obj\Release\Apresentacao.csproj.GenerateResource.Cache
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Apresentacao\obj\Release\Apresentacao.exe
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Apresentacao\obj\Release\Apresentacao.pdb

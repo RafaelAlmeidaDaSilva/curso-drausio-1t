@@ -1,0 +1,9 @@
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Negocios\bin\Release\Negocios.dll
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Negocios\bin\Release\Negocios.pdb
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Negocios\bin\Release\AcessoBancoDados.dll
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Negocios\bin\Release\ObjetosTransferencia.dll
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Negocios\bin\Release\AcessoBancoDados.pdb
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Negocios\bin\Release\ObjetosTransferencia.pdb
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Negocios\obj\Release\Negocios.csprojResolveAssemblyReference.cache
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Negocios\obj\Release\Negocios.dll
+I:\_PESSOAL\_PROJETOS\C#\Temporada1\Negocios\obj\Release\Negocios.pdb
